@@ -1,4 +1,5 @@
-# 👋 Welcome to Sujan S B's GitHub Profile!
+<h1 align="center">Hi 👋, I'm Sujan S B</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ## 🧑 About Me
 - 🎓 I’m a **BCA with AI student (2nd Semester)**.
@@ -17,8 +18,7 @@
 ## 🌟 Fun Fact
 - I enjoy solving coding challenges and exploring the latest advancements in AI.
 
-<h1 align="center">Hi 👋, I'm Sujan S B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
