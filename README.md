@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Welcome to Sujan S B's GitHub Profile!
 
-<!--
-**sujansb17/Sujansb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑 About Me
+- 🎓 I’m a **BCA with AI student (2nd Semester)**.
+- 🌱 I have learned **C** and am currently learning **Java** and **Data Structures & Algorithms (DSA)**.
+- 🤖 I’m passionate about **AI, software development, and problem-solving**.
+- 🔭 My goal is to build projects and improve my programming skills.
+- 📫 How to reach me: sujan@example.com (replace with your actual contact info)
 
-Here are some ideas to get you started:
+## 📚 Skills
+- Programming Languages: **C, Java**
+- Learning: **DSA (Data Structures & Algorithms)**
+- Interests: **Artificial Intelligence, Software Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me: ssbaindur2417@gmail.com 
+
+## 🌟 Fun Fact
+- I enjoy solving coding challenges and exploring the latest advancements in AI.
