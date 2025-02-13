@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sujan S B</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-## 🧑 About Me
+## 🧑 About Me:
 - 🎓 I’m a **BCA with AI student (2nd Semester)**.
 - 🌱 I have learned **C** and am currently learning **Java** and **Data Structures & Algorithms (DSA)**.
 - 🤖 I’m passionate about **AI, software development, and problem-solving**.
 - 🔭 My goal is to build projects and improve my programming skills.
 
-## 📚 Skills
+## 📚 Skills:
 - Programming Languages: **C, Java**
 - Learning: **DSA (Data Structures & Algorithms)**
 - Interests: **Artificial Intelligence, Software Development**
@@ -20,6 +20,6 @@ ssbaindur2417@gmail.com
 </p>
 
 
-## 🌟 Fun Fact
+## 🌟 Fun Fact:
 - I enjoy solving coding challenges and exploring the latest advancements in AI.
 
