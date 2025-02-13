@@ -6,7 +6,6 @@
 - 🌱 I have learned **C** and am currently learning **Java** and **Data Structures & Algorithms (DSA)**.
 - 🤖 I’m passionate about **AI, software development, and problem-solving**.
 - 🔭 My goal is to build projects and improve my programming skills.
-- 📫 How to reach me: sujan@example.com (replace with your actual contact info)
 
 ## 📚 Skills
 - Programming Languages: **C, Java**
@@ -14,9 +13,6 @@
 - Interests: **Artificial Intelligence, Software Development**
 
 ## 📫 Connect with Me: ssbaindur2417@gmail.com 
-
-## 🌟 Fun Fact
-- I enjoy solving coding challenges and exploring the latest advancements in AI.
 
 
 
@@ -29,3 +25,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujansb17&show_icons=true&locale=en&layout=compact" alt="sujansb17" /></p>
+## 🌟 Fun Fact
+- I enjoy solving coding challenges and exploring the latest advancements in AI.
+
