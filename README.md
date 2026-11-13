@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujan Subramanya Baindur B</h1>
+<h1 align="center">Hi 👋, I'm Sujan Subramanya Baindur </h1>
 <h3 align="center">Java Full Stack Developer in Training</h3>
 
 ## 🧑 About Me:
