@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sujan S B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sujan Subramanya Baindur B</h1>
+<h3 align="center">Java Full Stack Developer in Training</h3>
 
 ## 🧑 About Me:
 - 🎓 I’m a **BCA with AI student (2nd Semester)**.
-- 🌱 I have learned **C** and am currently learning **Java** and **Data Structures & Algorithms (DSA)**.
-- 🤖 I’m passionate about **AI, software development, and problem-solving**.
+- 🌱 I have learned **Java, Sql, Html, Css** and am currently learning **spring** and **react.js**.
+- 🤖 I’m passionate in **java full stack development**.
 - 🔭 My goal is to build projects and improve my programming skills.
 
 ## 📚 Skills:
-- Programming Languages: **C, Java**
-- Learning: **DSA (Data Structures & Algorithms)**
-- Interests: **Artificial Intelligence, Software Development**
+- Programming Languages: **Html, Css, Java, SQL**
+- Learning: **Spring, React, JavaScript**
+
 
 ## 📫 Connect with Me: 
 <p align="left">
@@ -20,6 +20,5 @@ ssbaindur2417@gmail.com
 </p>
 
 
-## 🌟 Fun Fact:
-- I enjoy solving coding challenges and exploring the latest advancements in AI.
+
 
